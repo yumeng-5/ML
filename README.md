@@ -1,3 +1,5 @@
+# Handwritten Greek Letter Recognition using CNN
+
 ## Overview:
 This script implements a CNN model using PyTorch to classify images of handwritten Greek letters.
 
